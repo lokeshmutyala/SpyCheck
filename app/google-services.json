@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "454787217461",
+    "firebase_url": "https://spycheck-45139.firebaseio.com",
+    "project_id": "spycheck-45139",
+    "storage_bucket": "spycheck-45139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454787217461:android:daa74c786d604c02",
+        "android_client_info": {
+          "package_name": "com.nearhere.spycheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454787217461-g98dlqbk2mthlr90s0du3kv6ebk492pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kbpj4hn7q_lgIN_ikuZpzqW6C8K577I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
